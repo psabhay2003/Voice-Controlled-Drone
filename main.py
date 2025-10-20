@@ -26,4 +26,4 @@ print(result["text"])
 
 
 write("audio.wav", fs, (recording * 32767).astype('int16'))
-print("audio.wav")
+print("audio.wav" )
